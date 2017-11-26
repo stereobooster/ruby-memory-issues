@@ -26,7 +26,7 @@ When reference to object lives longer than expected.
 - http://blog.skylight.io/hunting-for-leaks-in-ruby/
 - https://github.com/discourse/discourse/commit/830ce05fe64fd310d26d7da87ea6e4076696b7c8
 
-**Symptoms**: linear grows in memory.
+**Symptoms**: constant grows in memory.
 
 ![](images/memory-leak.png)
 

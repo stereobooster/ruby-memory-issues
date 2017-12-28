@@ -1,4 +1,4 @@
-# Ruby Memory Issues and Where to Find Them [![Hacker News](https://img.shields.io/badge/Hacker%20News-Y-orange.svg)](https://news.ycombinator.com/item?id=15782426)
+# Ruby Memory Issues and Where to Find Them [![Twitter Follow](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/stereobooster)
 
 ![](images/memory-bloat.svg)
 
